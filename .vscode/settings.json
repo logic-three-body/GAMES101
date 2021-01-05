@@ -2,6 +2,7 @@
     "git.ignoreLimitWarning": true,
     "files.associations": {
         "cmath": "cpp",
-        "eigen": "cpp"
+        "eigen": "cpp",
+        "cmake.generator": "MinGW Makefiles"
     }
 }

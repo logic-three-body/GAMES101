@@ -2,4 +2,5 @@ build
 output
 .vscode
 .vscode/settings.json
+vcpkg/
 
